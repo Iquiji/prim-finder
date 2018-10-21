@@ -1,0 +1,6 @@
+[package]
+name = "prim-finder"
+version = "0.1.0"
+authors = ["Iquiji <yt.failerbot.3000@gmail.com>"]
+
+[dependencies]
